@@ -23,11 +23,11 @@
 ### :raised_eyebrow: About Me :
 I am a full time student at Nanyang Technological University pursing Computer Science. :technologist: I hope to be a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am based in Singapore.
 
-- :telescope: I’m working towards becoming a Software Engineer and hopes to master frontend and backend for building web applications.
+- :telescope: I’m working towards becoming a Software Engineer and hope to master frontend and backend for building web applications.
 
-- :seedling: Exploring Web Development.
+- :bulb: Exploring Web Development, Cyber Security and Cloud Computing.
 
-- :zap: In my free time, I enjoy ice skating and singing.
+- :zap: In my free time, I enjoy ice skating :ice_skate: and singing :microphone:.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DonSeo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/donseokangrui/)
 
@@ -49,7 +49,7 @@ I am a full time student at Nanyang Technological University pursing Computer Sc
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :hammer_and_wrench: Operating Systems :
+### ::gear: Operating Systems :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" **alt="Debian" width="40" height="40"/>&nbsp;
@@ -61,4 +61,4 @@ I am a full time student at Nanyang Technological University pursing Computer Sc
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
 </div>
 
-
+Thank you for reading my portfolio!
