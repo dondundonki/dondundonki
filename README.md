@@ -21,12 +21,13 @@
 ---
 
 ### :raised_eyebrow: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a full time student at Nanyang Technological University pursing Computer Science. :technologist: I hope to be a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am based in Singapore.
 
-- :seedling: Exploring Technical Content Writing.
+- :telescope: I’m working towards becoming a Software Engineer and hopes to master frontend and backend for building web applications.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :seedling: Exploring Web Development.
+
+- :zap: In my free time, I enjoy ice skating and singing.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DonSeo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/donseokangrui/)
 
