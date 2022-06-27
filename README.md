@@ -60,6 +60,8 @@ I am currently a full time student pursing Computer Science at Nanyang Technolog
 ### Web Development Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="Gimp" **alt="Gimp" width="40" height="40"/>
 </div>
+
 
 Thank you for reading my portfolio!
