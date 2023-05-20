@@ -22,11 +22,11 @@
 ---
 
 ### :raised_eyebrow: About Me :
-I am currently a full time student pursing Computer Science at Nanyang Technological University. :technologist: I hope to be a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am based in Singapore.
+I am currently a full time student pursing Computer Science at Nanyang Technological University. :technologist: I hope to be a Site Reliability Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am based in Singapore.
 
-- :telescope: I’m working towards becoming a Software Engineer and hope to master frontend and backend for building web applications.
+- :telescope: I’m working towards becoming a Site Reliability Engineer and hope to master the art of automating everything efficiently.
 
-- :bulb: Exploring Web Development, Cyber Security and Cloud Computing.
+- :bulb: Exploring DevOps, Cyber Security and Cloud Computing.
 
 - :zap: In my free time, I enjoy ice skating :ice_skate: and singing :microphone:.
 
